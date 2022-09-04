@@ -1,0 +1,2 @@
+# Temperature-controlled-DC-fan-using-Microcontroller-
+The main aim of this project  is to monitor the surrounding temperature and change the speed of the fan  according to the temperature changes i.e. the speed should increase with a  rise in temperature and should decrease with a drop in temperature. The  temperature would be displayed through the LCD which is interfaced with the  8051 microcontroller.
